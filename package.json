@@ -1,0 +1,22 @@
+{
+  "name": "@tush-tr/csv2json",
+  "version": "1.0.0",
+  "description": "covert csv to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tush-tr/csv2json.git"
+  },
+  "author": "tush-tr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tush-tr/csv2json/issues"
+  },
+  "homepage": "https://github.com/tush-tr/csv2json#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
