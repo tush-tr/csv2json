@@ -1,5 +1,5 @@
 const fs = require('fs')
-const csv2json = require('./index')
+const csv2json = require("@tush-tr/csv2json")
 const {parse} = require('csv-parse')
 function readFile(path){
     return new Promise((resolve,reject)=>{

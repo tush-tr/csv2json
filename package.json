@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tush-tr/csv2json#readme",
   "dependencies": {
+    "@tush-tr/csv2json": "^1.0.0",
     "csv-parse": "^5.0.4"
   }
 }
