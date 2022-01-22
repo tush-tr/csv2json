@@ -1,6 +1,6 @@
 {
   "name": "@tush-tr/csv2json",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "covert csv to json",
   "main": "index.js",
   "scripts": {
